@@ -28,4 +28,5 @@ I've has been involved in multiple startups and has over 12 years experience bui
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielpaul&show_icons=true&theme=dark&line_height=27" alt="Daniel's github stats" />
 </a>
 
+
 *NOTE: Top languages does not indicate my skill level or expertise - it's just a github metric of which languages I have used the most recently on GitHub.*
