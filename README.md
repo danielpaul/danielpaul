@@ -21,7 +21,7 @@ I've has been involved in multiple startups and has over 12 years experience bui
 
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpaul&theme=dark&hide=javascript,php" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpaul&theme=dark&hide=javascript,php,css" />
 </a>
 
 <a href="#">
