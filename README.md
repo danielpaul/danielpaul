@@ -1,8 +1,8 @@
 ### Hi, I'm [Daniel](https://danielpaul.me). 👋
 
-I'm is an entrepreneur passionate about all things web & tech.
+I'm an entrepreneur passionate about all things web & tech.
 
-I've has been involved in multiple startups and has over 12 years experience building products and services as a CTO, head of product & full-stack developer. 
+I've been involved in multiple startups and have over 12 years experience building products and services as a CTO, head of product & full-stack developer. 
 
 - 🔭 I’m currently working on my startup [ParkOffice](https://parkoffice.io)
 - 💎 I do freelance work at [Identity Square](https://github.com/identitysquare)
