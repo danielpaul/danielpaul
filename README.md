@@ -5,8 +5,8 @@ I'm an entrepreneur passionate about all things web & tech. Prev co-founded a $2
 I've been involved in multiple startups and have over 12+ years experience building products and services as a CTO, head of product & full-stack developer. 
 
 #### Currently:
-🔭 Transforming education at [Nurture](https://gonurture.com) & [jumpAgrade](http://jumpagrade.com)
-💎 I do freelance work at [Identity Square](https://github.com/identitysquare)
+🔭 Transforming education at [Nurture](https://gonurture.com) & [jumpAgrade](http://jumpagrade.com)<br>
+💎 I do freelance work at [Identity Square](https://github.com/identitysquare)<br>
 ⚽️ Side project: Web3, NFT [football manager game](https://intergalactic.football)
 
 
